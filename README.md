@@ -1,2 +1,2 @@
 # Data Science Playground
-A collection of ipython-notebooks with experiments, simulations and visualizations that I've create in order to better understand different topics.
+A collection of ipython-notebooks with experiments, simulations and visualizations that I've created for personal learning
